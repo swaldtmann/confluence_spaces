@@ -1,4 +1,6 @@
 # confluence_spaces
+A Python script to fetch information about spaces from Atlassian Confluence Server or Datacenter.
+
 
 ## Create Environment
     pipenv install
